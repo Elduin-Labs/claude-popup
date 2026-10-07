@@ -3,6 +3,7 @@
 A data pack. The first time you join a world, Claude pops up.
 You hear a spooky sound, a big title shows, and a villager named Claude
 appears in front of you.
+If you knock Claude out, he comes back to life after 3 seconds.
 
 ## Use it
 
